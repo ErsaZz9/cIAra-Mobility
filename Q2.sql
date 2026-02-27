@@ -5,8 +5,8 @@ ORDER BY autonomie_km DESC;
 SELECT *
 FROM vehicule
 WHERE etat = 'Disponible'
-ORDER BY localisation ASC, marque ASC;
+ORDER BY ville, marque;
 
 SELECT *
 FROM client
-ORDER BY nom ASC, prenom ASC;
+ORDER BY nom, prenom;
