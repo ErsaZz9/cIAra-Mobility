@@ -1,0 +1,201 @@
+id,marque,modele,annee,energie,autonomie_km,immatriculation,etat,localisation
+1,Kia,EV6,2022,Electrique,320,XR-964-LJ,En maintenance,Strasbourg
+2,Kia,EV6,2024,Electrique,270,OY-932-RY,En maintenance,Nantes
+3,Hyundai,Ioniq 5,2022,Electrique,380,BJ-663-FL,Hors service,Marseille
+4,Kia,EV6,2024,Electrique,480,MW-909-XP,Hors service,Montpellier
+5,Mercedes,EQA,2021,Electrique,390,UN-317-LM,En maintenance,Lyon
+6,Hyundai,Ioniq 5,2024,Electrique,330,PU-953-NB,En maintenance,Montpellier
+7,BMW,iX1,2024,Electrique,270,YO-412-AH,Hors service,Toulouse
+8,Nissan,Leaf,2024,Electrique,270,SO-650-ZD,Disponible,Lyon
+9,Toyota,Proace Electric,2023,Electrique,530,YE-805-LI,En maintenance,Nice
+10,Renault,Megane E-Tech,2024,Electrique,550,YE-951-QU,Disponible,Montpellier
+11,Citroen,Ami,2024,Electrique,550,WT-751-VN,Disponible,Lyon
+12,Mercedes,EQB,2024,Electrique,420,OD-742-GO,En maintenance,Toulouse
+13,Volkswagen,ID.5,2022,Electrique,550,KO-197-KW,Hors service,Nantes
+14,Mercedes,EQA,2022,Electrique,500,KM-850-ZY,En maintenance,Lille
+15,Kia,Soul EV,2024,Electrique,360,TR-567-ZM,Hors service,Nantes
+16,Renault,Megane E-Tech,2021,Electrique,590,JR-526-BM,Disponible,Marseille
+17,Citroen,Ami,2023,Electrique,340,XF-922-TM,Hors service,Strasbourg
+18,Tesla,Model 3,2022,Electrique,270,HU-769-AI,En maintenance,Nice
+19,Kia,Soul EV,2022,Electrique,510,IW-415-IT,En service,Toulouse
+20,Mercedes,EQA,2022,Electrique,500,IL-910-WY,Disponible,Paris
+21,Mercedes,EQB,2023,Electrique,330,FF-812-UQ,En maintenance,Nantes
+22,Toyota,Proace Electric,2024,Electrique,320,UD-673-OE,En maintenance,Lyon
+23,Mercedes,EQA,2021,Electrique,420,AQ-685-JB,En service,Montpellier
+24,Toyota,Proace Electric,2022,Electrique,290,PS-158-WM,En maintenance,Marseille
+25,Nissan,Ariya,2021,Electrique,470,WN-898-EP,En maintenance,Bordeaux
+26,Volkswagen,ID.4,2023,Electrique,580,XU-837-FD,Disponible,Lille
+27,Peugeot,e-308,2023,Electrique,320,ON-875-UO,Hors service,Marseille
+28,Toyota,Proace Electric,2023,Electrique,430,GO-836-IU,En maintenance,Nantes
+29,Citroen,Ami,2022,Electrique,480,VE-965-UY,Disponible,Lyon
+30,Hyundai,Ioniq 5,2024,Electrique,410,UE-921-ED,En maintenance,Nantes
+31,Mercedes,EQA,2021,Electrique,450,YA-188-TY,En maintenance,Nice
+32,Citroen,Ami,2023,Electrique,340,HV-248-IT,En service,Toulouse
+33,Hyundai,Ioniq 5,2022,Electrique,500,TZ-433-HF,En maintenance,Strasbourg
+34,Fiat,500e,2021,Electrique,320,NQ-819-BP,Hors service,Lille
+35,Fiat,Panda EV,2022,Electrique,540,DW-525-FC,En service,Paris
+36,Renault,Zoe,2023,Electrique,300,QC-782-KP,En maintenance,Lyon
+37,BMW,iX1,2022,Electrique,400,UG-214-SA,En service,Bordeaux
+38,Mercedes,EQB,2021,Electrique,290,IT-929-YS,Hors service,Lyon
+39,Nissan,Leaf,2022,Electrique,490,TH-749-AC,En service,Montpellier
+40,Tesla,Model 3,2022,Electrique,390,NC-394-CX,Disponible,Paris
+41,Volkswagen,ID.4,2023,Electrique,340,HX-598-OS,En maintenance,Strasbourg
+42,Citroen,Berlingo EV,2023,Electrique,450,AN-441-ZU,Disponible,Bordeaux
+43,Mercedes,EQE,2022,Electrique,520,QN-135-FB,En maintenance,Nice
+44,Fiat,500e,2024,Electrique,590,ZO-456-RC,Hors service,Marseille
+45,Tesla,Model Y,2022,Electrique,450,HY-708-CY,Hors service,Lille
+46,Hyundai,Kona Electric,2023,Electrique,560,AR-624-YF,Hors service,Montpellier
+47,Citroen,e-C4,2022,Electrique,420,TW-514-GR,Disponible,Nice
+48,Toyota,bZ4X,2021,Electrique,250,SI-389-FD,Disponible,Lyon
+49,Toyota,bZ4X,2023,Electrique,320,QI-180-WY,En service,Nantes
+50,Renault,Zoe,2024,Electrique,550,SW-740-DO,Hors service,Nice
+51,Tesla,Model S,2023,Electrique,340,FF-225-KQ,Hors service,Lille
+52,Volkswagen,ID.3,2024,Electrique,480,QS-174-ZR,Disponible,Bordeaux
+53,Tesla,Model S,2024,Electrique,260,LP-456-BF,Disponible,Nice
+54,Tesla,Model Y,2024,Electrique,410,WE-429-FR,Hors service,Montpellier
+55,Peugeot,e-208,2021,Electrique,390,EL-581-UI,Hors service,Montpellier
+56,Mercedes,EQE,2021,Electrique,250,RJ-910-JH,En service,Lille
+57,Mercedes,EQB,2024,Electrique,540,MM-708-MP,Disponible,Lyon
+58,Toyota,bZ4X,2023,Electrique,410,AX-830-FQ,En maintenance,Lille
+59,Renault,Megane E-Tech,2022,Electrique,570,TE-356-RM,Hors service,Nantes
+60,Nissan,Leaf,2021,Electrique,250,EB-604-AD,En service,Paris
+61,Fiat,500e,2021,Electrique,430,SU-704-FB,En service,Montpellier
+62,Mercedes,EQE,2022,Electrique,450,VA-230-KN,Hors service,Bordeaux
+63,Citroen,Berlingo EV,2023,Electrique,250,AN-425-ZW,Hors service,Marseille
+64,Renault,Twingo E-Tech,2024,Electrique,350,KZ-306-XV,Disponible,Bordeaux
+65,Tesla,Model 3,2021,Electrique,570,SD-357-YU,Disponible,Montpellier
+66,Nissan,Ariya,2023,Electrique,490,FO-267-ZD,En maintenance,Lille
+67,Kia,EV6,2022,Electrique,260,LS-696-PV,Disponible,Bordeaux
+68,Citroen,Ami,2023,Electrique,310,ZV-338-JX,Hors service,Toulouse
+69,Mercedes,EQA,2024,Electrique,480,TC-188-QF,Hors service,Nice
+70,Mercedes,EQA,2023,Electrique,360,QD-535-RQ,En service,Paris
+71,Fiat,500e,2021,Electrique,260,YW-289-PL,En maintenance,Paris
+72,Hyundai,Ioniq 6,2024,Electrique,310,CX-634-XG,Hors service,Bordeaux
+73,Peugeot,e-2008,2023,Electrique,550,SE-164-IS,En maintenance,Strasbourg
+74,Nissan,Ariya,2023,Electrique,300,SW-661-EL,Hors service,Strasbourg
+75,Mercedes,EQA,2021,Electrique,490,FV-360-TH,En maintenance,Marseille
+76,Renault,Zoe,2021,Electrique,540,RW-414-YG,Hors service,Lille
+77,Toyota,bZ4X,2023,Electrique,350,KE-749-OR,En maintenance,Strasbourg
+78,Mercedes,EQE,2021,Electrique,570,EM-599-QD,En service,Toulouse
+79,Kia,Soul EV,2023,Electrique,360,YL-392-JL,Hors service,Toulouse
+80,Renault,Megane E-Tech,2023,Electrique,340,SW-667-JM,Disponible,Lille
+81,Hyundai,Kona Electric,2022,Electrique,400,HO-110-PM,En service,Lille
+82,Hyundai,Ioniq 5,2023,Electrique,280,CN-775-SP,Hors service,Bordeaux
+83,Tesla,Model 3,2024,Electrique,490,NW-528-XK,Hors service,Nantes
+84,Fiat,Panda EV,2021,Electrique,520,PV-742-CK,Hors service,Montpellier
+85,Fiat,500e,2021,Electrique,360,WZ-347-FT,En service,Paris
+86,Tesla,Model Y,2022,Electrique,330,JX-290-MI,Disponible,Marseille
+87,Hyundai,Ioniq 5,2023,Electrique,540,DP-239-MK,Hors service,Lille
+88,Kia,EV6,2021,Electrique,300,BP-212-VV,En service,Nantes
+89,Citroen,Ami,2021,Electrique,310,WS-948-XM,Disponible,Nice
+90,Toyota,Proace Electric,2024,Electrique,400,UO-609-AK,Hors service,Bordeaux
+91,Toyota,bZ4X,2022,Electrique,330,DE-120-IL,En maintenance,Nice
+92,Nissan,Ariya,2023,Electrique,360,NL-530-PG,En maintenance,Paris
+93,Toyota,Proace Electric,2023,Electrique,300,GJ-521-QR,Disponible,Toulouse
+94,Citroen,Berlingo EV,2024,Electrique,550,OE-844-KP,En maintenance,Lille
+95,Hyundai,Ioniq 6,2021,Electrique,470,HW-712-EI,Hors service,Montpellier
+96,Fiat,Panda EV,2021,Electrique,330,TF-251-SI,Disponible,Strasbourg
+97,Tesla,Model 3,2023,Electrique,410,ZK-632-LE,En maintenance,Bordeaux
+98,Renault,Zoe,2023,Electrique,270,OM-169-MV,En service,Nantes
+99,BMW,i4,2022,Electrique,590,ET-620-CS,Hors service,Marseille
+100,Kia,Niro EV,2024,Electrique,570,LG-389-OK,Hors service,Bordeaux
+101,Peugeot,e-2008,2023,Electrique,490,WI-254-SD,Disponible,Lille
+102,Volkswagen,ID.5,2022,Electrique,540,WL-753-WR,Hors service,Lille
+103,Kia,Soul EV,2023,Electrique,350,IR-711-JA,En service,Lyon
+104,Mercedes,EQE,2021,Electrique,470,RP-199-AS,En maintenance,Montpellier
+105,Renault,Megane E-Tech,2021,Electrique,400,XT-498-QA,En maintenance,Montpellier
+106,Volkswagen,ID.5,2021,Electrique,290,WG-359-PO,Disponible,Toulouse
+107,Mercedes,EQA,2022,Electrique,340,FX-993-XP,Disponible,Lyon
+108,Toyota,bZ4X,2024,Electrique,480,MB-368-UO,En maintenance,Lille
+109,BMW,iX1,2024,Electrique,290,QL-947-DJ,Hors service,Nantes
+110,Citroen,Ami,2023,Electrique,570,BZ-366-UO,Hors service,Nantes
+111,Citroen,e-C4,2022,Electrique,260,WJ-620-FG,En maintenance,Montpellier
+112,Mercedes,EQA,2023,Electrique,370,RZ-370-NL,Disponible,Toulouse
+113,Nissan,Leaf,2024,Electrique,390,BP-234-SK,Disponible,Bordeaux
+114,Fiat,Panda EV,2023,Electrique,350,XJ-945-HM,En maintenance,Marseille
+115,Mercedes,EQB,2022,Electrique,530,DH-852-NY,Disponible,Marseille
+116,Mercedes,EQA,2021,Electrique,280,NK-133-FM,En service,Montpellier
+117,BMW,iX1,2024,Electrique,490,WD-869-LS,En maintenance,Toulouse
+118,BMW,i4,2024,Electrique,250,ZR-949-AH,Disponible,Paris
+119,Nissan,Ariya,2022,Electrique,510,NL-355-NC,En maintenance,Paris
+120,Volkswagen,ID.4,2023,Electrique,260,PR-323-VJ,Disponible,Strasbourg
+121,Tesla,Model Y,2023,Electrique,360,AE-397-CK,Disponible,Strasbourg
+122,Fiat,Panda EV,2024,Electrique,340,FT-670-QN,Hors service,Toulouse
+123,Peugeot,e-2008,2021,Electrique,480,PS-782-EL,En maintenance,Montpellier
+124,Nissan,Ariya,2023,Electrique,440,DK-304-FY,Hors service,Bordeaux
+125,Fiat,Panda EV,2023,Electrique,350,FC-495-SL,En service,Strasbourg
+126,Fiat,Panda EV,2024,Electrique,520,VK-465-JT,En maintenance,Nice
+127,Mercedes,EQB,2021,Electrique,370,QY-837-UB,En maintenance,Nantes
+128,Fiat,Panda EV,2023,Electrique,310,NH-411-OO,Disponible,Montpellier
+129,Mercedes,EQB,2022,Electrique,440,LJ-641-IZ,Hors service,Lille
+130,Tesla,Model S,2021,Electrique,530,UM-650-SA,Disponible,Lyon
+131,Kia,EV6,2022,Electrique,590,RB-458-VO,Hors service,Nantes
+132,Mercedes,EQB,2022,Electrique,510,VE-861-VS,Hors service,Lille
+133,Mercedes,EQE,2022,Electrique,300,CJ-528-YK,En service,Bordeaux
+134,Tesla,Model 3,2024,Electrique,560,SO-450-TY,En maintenance,Marseille
+135,Hyundai,Kona Electric,2024,Electrique,250,JL-958-MC,Disponible,Paris
+136,Nissan,Ariya,2022,Electrique,450,BL-747-IP,Disponible,Lyon
+137,Peugeot,e-308,2024,Electrique,560,IJ-140-LZ,Disponible,Lille
+138,Nissan,Leaf,2023,Electrique,530,ME-146-YS,Disponible,Bordeaux
+139,Nissan,Ariya,2023,Electrique,360,WU-151-UG,Disponible,Nantes
+140,Volkswagen,ID.5,2024,Electrique,370,MN-866-BT,En maintenance,Marseille
+141,Tesla,Model 3,2024,Electrique,270,KH-489-MM,En service,Nantes
+142,Mercedes,EQE,2024,Electrique,590,ZF-466-DO,En maintenance,Bordeaux
+143,Fiat,Panda EV,2024,Electrique,270,RG-111-UB,En maintenance,Paris
+144,Peugeot,e-2008,2022,Electrique,420,UT-617-SM,En service,Lille
+145,Fiat,Panda EV,2021,Electrique,510,VK-657-DT,Hors service,Bordeaux
+146,Tesla,Model 3,2024,Electrique,430,VN-439-QX,En service,Montpellier
+147,Kia,Soul EV,2022,Electrique,500,TW-416-PG,En maintenance,Marseille
+148,Citroen,Berlingo EV,2022,Electrique,480,XI-615-WE,Hors service,Nantes
+149,Citroen,Ami,2024,Electrique,460,AM-438-XO,Hors service,Toulouse
+150,Toyota,Proace Electric,2023,Electrique,330,IS-472-XI,En maintenance,Nantes
+151,Mercedes,EQE,2022,Electrique,370,VH-124-QD,Disponible,Bordeaux
+152,Nissan,Ariya,2022,Electrique,320,UH-682-IO,En maintenance,Marseille
+153,Hyundai,Kona Electric,2024,Electrique,500,DE-955-XC,Hors service,Lyon
+154,Fiat,500e,2022,Electrique,580,EB-649-OH,En service,Nice
+155,Nissan,Ariya,2022,Electrique,560,XN-131-XQ,En maintenance,Nantes
+156,Mercedes,EQA,2023,Electrique,290,YT-400-RA,En service,Nantes
+157,Peugeot,e-208,2024,Electrique,560,BN-764-CE,En service,Paris
+158,Hyundai,Ioniq 6,2023,Electrique,260,MC-203-SW,Disponible,Lyon
+159,BMW,iX1,2023,Electrique,480,TH-109-OL,En service,Lyon
+160,Mercedes,EQB,2023,Electrique,490,HA-896-FD,En service,Toulouse
+161,Toyota,Proace Electric,2023,Electrique,320,IV-986-QN,Disponible,Nantes
+162,Mercedes,EQE,2023,Electrique,440,TS-753-YT,Hors service,Nice
+163,Mercedes,EQE,2021,Electrique,480,HQ-340-ME,Hors service,Lille
+164,Peugeot,e-2008,2023,Electrique,490,TM-569-HA,Disponible,Marseille
+165,Toyota,bZ4X,2023,Electrique,440,WK-987-YD,Disponible,Nice
+166,Peugeot,e-308,2023,Electrique,490,UD-306-PX,Hors service,Nantes
+167,Kia,EV6,2021,Electrique,280,BU-389-QH,En service,Nice
+168,Renault,Twingo E-Tech,2024,Electrique,260,SV-706-SJ,En service,Lille
+169,Volkswagen,ID.3,2022,Electrique,300,OI-419-ZT,En service,Lyon
+170,Peugeot,e-2008,2024,Electrique,480,LN-599-UP,En maintenance,Lille
+171,Tesla,Model Y,2024,Electrique,560,GD-271-MQ,Disponible,Toulouse
+172,Fiat,Panda EV,2022,Electrique,500,PF-512-MT,En service,Lille
+173,Volkswagen,ID.4,2022,Electrique,350,SB-817-VP,En service,Toulouse
+174,Peugeot,e-208,2021,Electrique,330,VY-619-MP,En service,Marseille
+175,BMW,i4,2023,Electrique,330,DR-314-DR,Hors service,Bordeaux
+176,Fiat,Panda EV,2021,Electrique,270,JY-869-HY,Disponible,Nantes
+177,Kia,Niro EV,2024,Electrique,340,QJ-391-VO,En service,Lille
+178,Renault,Twingo E-Tech,2023,Electrique,340,SB-797-MR,En maintenance,Toulouse
+179,Kia,Niro EV,2023,Electrique,420,AX-470-KN,En maintenance,Strasbourg
+180,BMW,iX1,2023,Electrique,420,KM-572-NJ,En service,Marseille
+181,Renault,Megane E-Tech,2021,Electrique,520,PU-577-ZZ,En maintenance,Lyon
+182,Hyundai,Ioniq 6,2024,Electrique,250,TZ-622-EA,En maintenance,Toulouse
+183,Toyota,Proace Electric,2022,Electrique,570,EH-429-CM,Disponible,Lille
+184,Volkswagen,ID.3,2023,Electrique,410,OS-980-AT,En maintenance,Toulouse
+185,Tesla,Model 3,2022,Electrique,480,TI-895-UI,En maintenance,Lyon
+186,Tesla,Model Y,2022,Electrique,290,NN-119-YJ,Disponible,Nantes
+187,Volkswagen,ID.3,2023,Electrique,450,RV-850-FT,Hors service,Montpellier
+188,Peugeot,e-2008,2022,Electrique,310,UX-407-TO,Disponible,Nantes
+189,Volkswagen,ID.3,2024,Electrique,540,FZ-415-DG,En service,Toulouse
+190,Renault,Twingo E-Tech,2024,Electrique,550,BH-615-AM,Hors service,Marseille
+191,Volkswagen,ID.4,2024,Electrique,540,VP-134-EA,Hors service,Nice
+192,Volkswagen,ID.3,2024,Electrique,550,UJ-309-EH,En maintenance,Nantes
+193,Fiat,500e,2024,Electrique,370,KT-363-MD,En service,Nice
+194,Hyundai,Ioniq 6,2021,Electrique,410,BK-529-UC,Disponible,Strasbourg
+195,Mercedes,EQB,2023,Electrique,590,EJ-848-ZK,Hors service,Strasbourg
+196,BMW,iX1,2021,Electrique,550,OS-817-PA,En maintenance,Lyon
+197,Renault,Zoe,2021,Electrique,480,LO-729-ZR,En service,Lyon
+198,Peugeot,e-2008,2021,Electrique,470,XD-909-AR,En service,Lille
+199,Citroen,e-C4,2024,Electrique,460,HO-747-OR,Hors service,Nice
+200,Citroen,e-C4,2022,Electrique,580,XE-564-VB,Disponible,Nice
