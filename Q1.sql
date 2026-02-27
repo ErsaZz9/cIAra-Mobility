@@ -3,11 +3,11 @@ FROM vehicule;
 
 SELECT *
 FROM vehicule
-WHERE etat = 'disponible';
+WHERE etat = 'Disponible';
 
 SELECT *
 FROM vehicule
-WHERE location = 'Paris';
+WHERE ville = 'Paris';
 
 SELECT *
 FROM vehicule

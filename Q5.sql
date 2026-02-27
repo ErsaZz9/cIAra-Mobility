@@ -4,11 +4,11 @@ WHERE etat = 'Disponible'
 ORDER BY autonomie_km DESC
 LIMIT 3;
 
-SELECT ville, COUNT(*)
+SELECT ville, COUNT(*) AS nb_vehicules
 FROM vehicule
 WHERE etat = 'Disponible'
 GROUP BY ville
-ORDER BY COUNT(*) DESC
+ORDER BY nb_vehicules DESC
 LIMIT 1;
 
 SELECT id_client
@@ -19,5 +19,5 @@ HAVING COUNT(*) >= 2;
 SELECT v.*
 FROM vehicule v
 LEFT JOIN location l
-ON v.id_vehicule = l.id_vehicule
+ON v.id = l.id_vehicule
 WHERE l.id_vehicule IS NULL;
