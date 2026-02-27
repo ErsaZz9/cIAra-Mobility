@@ -7,7 +7,7 @@ WHERE etat = 'disponible';
 
 SELECT *
 FROM vehicule
-WHERE ville = 'Paris';
+WHERE location = 'Paris';
 
 SELECT *
 FROM vehicule
