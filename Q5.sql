@@ -4,10 +4,10 @@ WHERE etat = 'Disponible'
 ORDER BY autonomie_km DESC
 LIMIT 3;
 
-SELECT ville, COUNT(*) AS nb_vehicules
+SELECT localisation, COUNT(*) AS nb_vehicules
 FROM vehicule
 WHERE etat = 'Disponible'
-GROUP BY ville
+GROUP BY localisation
 ORDER BY nb_vehicules DESC
 LIMIT 1;
 
