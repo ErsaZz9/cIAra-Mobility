@@ -161,14 +161,17 @@ Nous avons transformé les besoins métier en conditions SQL :
 
 ---
 
-## 🎯 Difficultés rencontrées
+## ⚠️ Difficultés rencontrées et résolution
 
-### Compréhension des jointures
-Au début, certaines erreurs étaient liées aux clés étrangères.
+Les principales difficultés rencontrées étaient d’ordre syntaxique et logique.
 
-Solution :
-- Analyse du schéma relationnel.
-- Construction progressive des requêtes.
+Les problèmes observés incluent :
+
+- Confusion initiale entre certains noms de colonnes
+- Gestion des jointures multiples
+- Validation progressive des requêtes complexes
+
+La stratégie adoptée a consisté à tester chaque requête séparément afin d’assurer la cohérence des résultats.
 
 ---
 
